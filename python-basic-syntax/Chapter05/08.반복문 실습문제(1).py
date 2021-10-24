@@ -4,7 +4,6 @@
 # for number in range(1, 10):
 #     string = str(dan) + " * " + str(number) + " ="
 #     print(string, dan * number)
-
 while True:
     menuNum = int(input("[메뉴를 입력하세요]\n1.게임시작 2.랭킹보기 3.게임종료 >>>"))
     if menuNum == 1:
